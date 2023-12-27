@@ -1,7 +1,7 @@
 # BankChurn
 
 ### Purpose
-This is notebook was created to investigate the utility of several advanced ML algorithms, various sampling methods, and hyperparameter tuning. The data used for this work can be found in `BankChurners.csv`.
+This notebook is for investigating the utility of several advanced ML algorithms, various sampling methods, and hyperparameter tuning. The data used for this work can be found in `BankChurners.csv`.
 
 ### Business Context
 The Thera bank recently saw a steep decline in the number of users of their credit card, credit cards are a good source of income for banks because of different kinds of fees charged by the banks like annual fees, balance transfer fees, and cash advance fees, late payment fees, foreign transaction fees, and others. Some fees are charged to every user irrespective of usage, while others are charged under specified circumstances.
